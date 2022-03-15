@@ -4,7 +4,7 @@ using Microsoft.EntityFrameworkCore;
 using UserBusiness.DepencyResolver;
 using UserDataAccess;
 
-string con = @"server = localhost; user = root; password = welat.123; database = rise1;";
+string con = @"MysqlVeritabaniconnstr";
 var builder = WebApplication.CreateBuilder(args);
 
 // Add services to the container.

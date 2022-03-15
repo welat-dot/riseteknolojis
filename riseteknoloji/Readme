@@ -1,0 +1,2 @@
+Projenin çalışması için UserApi/Program.cs 7. satırında yer alan "MysqlVeritabaniconnstr" alanı 
+yerine bir mysql connection stringinin eklenmesi yeterli olacaktır proje ayağa kalktığında veritabanını oluşturacaktır.
